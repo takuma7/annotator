@@ -1,3 +1,6 @@
+.. image:: https://badge.waffle.io/takuma7/annotator.png?label=ready&title=Ready 
+ :target: https://waffle.io/takuma7/annotator
+ :alt: 'Stories in Ready'
 Annotator
 =========
 
